@@ -20,8 +20,7 @@ def convert_file_name(direc):
                         stri += "_"
                     else:
                         stri += j.lower()
-                nstr = stri[0].upper()
-                nstr+=stri[1:] +  "." + ext
+                nstr=stri +  "." + ext
                 os.chdir(direc)
                 os.rename(direc + '/' + i, nstr)
                 stri = ""
