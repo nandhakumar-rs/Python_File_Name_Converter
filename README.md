@@ -2,7 +2,7 @@
 
 This is a simple windows application that helps the user to rename the python file to proper convention
 
-<b> Packages Used : </b>
+<b> Packages Used </b>
    <ul>
    <li> os </li>
    <li> Tkinter </li>
