@@ -4,7 +4,7 @@ import os
 from tkinter import *
 # creating an instance windows for tkinter class
 window = Tk()
-
+window.title("Python Filename Converter")
 
 def convert_file_name(direc):
     """ This function will rename the filename to
