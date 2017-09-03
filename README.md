@@ -3,10 +3,10 @@
 This is a simple windows application that helps the user to rename the python file in a proper convention
 
 <b> Packages Used : </b>
-   <ol>
+   <ul>
    <li> os </li>
    <li> Tkinter </li>
-   </ol>
+   </ul>
    
    
    
